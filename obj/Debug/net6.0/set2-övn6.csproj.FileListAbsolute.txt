@@ -1,0 +1,15 @@
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\bin\Debug\net6.0\set2-övn6.exe
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\bin\Debug\net6.0\set2-övn6.deps.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\bin\Debug\net6.0\set2-övn6.runtimeconfig.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\bin\Debug\net6.0\set2-övn6.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\bin\Debug\net6.0\set2-övn6.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\set2-övn6.csproj.AssemblyReference.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\set2-övn6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\set2-övn6.AssemblyInfoInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\set2-övn6.AssemblyInfo.cs
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\set2-övn6.csproj.CoreCompileInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\set2-övn6.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\refint\set2-övn6.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\set2-övn6.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\set2-övn6.genruntimeconfig.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set2-övn6\obj\Debug\net6.0\ref\set2-övn6.dll
